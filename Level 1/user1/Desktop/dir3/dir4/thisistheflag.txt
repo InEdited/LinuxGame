@@ -1,0 +1,6 @@
+To go to the next stage use the following username and password on the same ip
+
+username : user2
+password : ThisIsTheFlag
+
+case sensitive btw :D 

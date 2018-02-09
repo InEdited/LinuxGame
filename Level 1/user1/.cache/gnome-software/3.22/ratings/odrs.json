@@ -1,0 +1,4349 @@
+{
+    "0ad.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 8,
+        "star5": 43,
+        "total": 53
+    },
+    "Counter-Strike Global Offensive.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 5
+    },
+    "Cutegram.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "FBReader.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "FoxitReader.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "GoPanda2.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "HDA_BB.desktop": {
+        "star0": 0,
+        "star1": 11,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 13
+    },
+    "PlayOnLinux.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 2,
+        "star3": 2,
+        "star4": 6,
+        "star5": 9,
+        "total": 25
+    },
+    "Thunar.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "YAGF.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "Zoom.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "abe.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "abiword.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 1,
+        "star4": 3,
+        "star5": 0,
+        "total": 6
+    },
+    "alacarte-made.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "alacarte.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 6
+    },
+    "almanah.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "amarok.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 3,
+        "star4": 3,
+        "star5": 12,
+        "total": 19
+    },
+    "anaconda.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 6
+    },
+    "anjuta.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "anki.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "antimicro.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "apper.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "appimagekit-Etcher.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "appimagekit-Molotov.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "ardour5.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "arduino-arduinoide.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "arduino.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 4,
+        "star4": 0,
+        "star5": 4,
+        "total": 9
+    },
+    "artha.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 4
+    },
+    "atom.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 2,
+        "star4": 9,
+        "star5": 44,
+        "total": 56
+    },
+    "atomix.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "audacious.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 1,
+        "star5": 10,
+        "total": 13
+    },
+    "audacity.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 4,
+        "star5": 31,
+        "total": 37
+    },
+    "ballbuster.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "ballz.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "banshee.desktop": {
+        "star0": 0,
+        "star1": 5,
+        "star2": 2,
+        "star3": 2,
+        "star4": 3,
+        "star5": 5,
+        "total": 17
+    },
+    "bleachbit.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 8,
+        "total": 9
+    },
+    "blender.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 44,
+        "total": 50
+    },
+    "blivet-gui.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 5
+    },
+    "bluefish.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 9,
+        "total": 10
+    },
+    "brasero.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 1,
+        "star3": 1,
+        "star4": 1,
+        "star5": 27,
+        "total": 33
+    },
+    "btanks.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "ca.desrt.dconf-editor.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 3,
+        "star4": 3,
+        "star5": 3,
+        "total": 9
+    },
+    "cairo-clock.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 0,
+        "total": 3
+    },
+    "calibre-ebook-viewer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "calibre-gui.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 2,
+        "star4": 3,
+        "star5": 25,
+        "total": 32
+    },
+    "california.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 6
+    },
+    "camorama.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 4
+    },
+    "cherrytree.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 2,
+        "star5": 1,
+        "total": 4
+    },
+    "chocolate-doom.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "chromium-browser.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 5,
+        "star3": 4,
+        "star4": 10,
+        "star5": 24,
+        "total": 49
+    },
+    "chromium-bsu.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "chromium.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 1,
+        "star3": 1,
+        "star4": 1,
+        "star5": 13,
+        "total": 19
+    },
+    "cinnamon-settings-mouse.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "cisco-anyconnect.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 2,
+        "total": 7
+    },
+    "clamtk.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 6
+    },
+    "claws-mail.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "clementine.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 2,
+        "star4": 2,
+        "star5": 16,
+        "total": 24
+    },
+    "cockpit.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "code.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 5,
+        "star5": 49,
+        "total": 55
+    },
+    "codeblocks.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 2,
+        "star3": 2,
+        "star4": 1,
+        "star5": 12,
+        "total": 20
+    },
+    "codelite.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "com.gexperts.Terminix.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 8,
+        "total": 8
+    },
+    "com.gexperts.Tilix.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 7,
+        "total": 8
+    },
+    "com.github.needle-and-thread.vocal.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "com.teamviewer.TeamViewer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 7
+    },
+    "com.uploadedlobster.peek.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "converseen.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 7
+    },
+    "curlew.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "d-feet.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "darkplaces-quake.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "darktable.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 6,
+        "star5": 21,
+        "total": 27
+    },
+    "dassault-systemes_draftsight.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "de.haeckerfelix.gradio.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "deadbeef.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "debian-reference-common.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "debian-xterm.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "deepin-game-center.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "deja-dup-preferences.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 2,
+        "star3": 0,
+        "star4": 3,
+        "star5": 3,
+        "total": 10
+    },
+    "deja-dup.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 1,
+        "star5": 2,
+        "total": 5
+    },
+    "deluge.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 2,
+        "total": 5
+    },
+    "devassistant.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "devdocs-io.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "dia.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 6
+    },
+    "digikam.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 1,
+        "total": 4
+    },
+    "discord.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 8
+    },
+    "dolphin-emu.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "doom-shareware.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "doublecmd.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "dropbox.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 15,
+        "total": 16
+    },
+    "dwarffortress.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "easytag.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 2,
+        "star4": 6,
+        "star5": 4,
+        "total": 14
+    },
+    "eclipse.desktop": {
+        "star0": 0,
+        "star1": 7,
+        "star2": 2,
+        "star3": 2,
+        "star4": 10,
+        "star5": 15,
+        "total": 36
+    },
+    "edrawmax.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "electrum.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 2,
+        "total": 5
+    },
+    "emacs.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 14,
+        "total": 14
+    },
+    "emacs24.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "empathy.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 4,
+        "star3": 3,
+        "star4": 3,
+        "star5": 3,
+        "total": 19
+    },
+    "endless-sky.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "engauge-digitizer.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "eog.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "epiphany-facebook.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 4
+    },
+    "epiphany-googledrive.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 6
+    },
+    "epiphany-kindlecloud.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 4
+    },
+    "epiphany-telegram.desktop": {
+        "star0": 0,
+        "star1": 29,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 33
+    },
+    "epiphany-twitter.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "epiphany.desktop": {
+        "star0": 0,
+        "star1": 5,
+        "star2": 3,
+        "star3": 9,
+        "star4": 16,
+        "star5": 7,
+        "total": 40
+    },
+    "etr.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "ettercap.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "eu.tiliado.Nuvola.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "evince.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 2,
+        "star4": 3,
+        "star5": 9,
+        "total": 17
+    },
+    "evolution.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 1,
+        "star3": 4,
+        "star4": 8,
+        "star5": 11,
+        "total": 28
+    },
+    "exfalso.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "feedreader.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 3,
+        "total": 7
+    },
+    "filezilla.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 3,
+        "star4": 2,
+        "star5": 23,
+        "total": 31
+    },
+    "firefox-esr.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 2,
+        "star3": 2,
+        "star4": 4,
+        "star5": 16,
+        "total": 27
+    },
+    "firefox.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 4,
+        "star4": 15,
+        "star5": 47,
+        "total": 68
+    },
+    "firewall-config.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 0,
+        "star4": 2,
+        "star5": 9,
+        "total": 14
+    },
+    "flare.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 2,
+        "total": 4
+    },
+    "flash-player-properties.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 1,
+        "star4": 2,
+        "star5": 1,
+        "total": 6
+    },
+    "flightgear.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 3,
+        "total": 6
+    },
+    "flowblade.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "fluxgui.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 4
+    },
+    "focuswriter.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 9,
+        "total": 12
+    },
+    "four-in-a-row.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "franz.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "freecad.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "freeciv-gtk2.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "fritzing.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 1,
+        "total": 4
+    },
+    "frozen-bubble.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 4,
+        "total": 6
+    },
+    "fusion-icon.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "galculator.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "gambas3.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gbrainy.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 1,
+        "total": 4
+    },
+    "gcompris.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "gda-browser-5.0.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 4
+    },
+    "gdebi-kde.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 8,
+        "total": 10
+    },
+    "gdesklets.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 4
+    },
+    "geany.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 16,
+        "total": 17
+    },
+    "geary.desktop": {
+        "star0": 0,
+        "star1": 10,
+        "star2": 3,
+        "star3": 4,
+        "star4": 13,
+        "star5": 16,
+        "total": 46
+    },
+    "geogebra.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "gespeaker.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "ghb.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "ghex.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 4
+    },
+    "giggle.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 3
+    },
+    "gimagereader-gtk.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 4,
+        "total": 6
+    },
+    "gimp.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 3,
+        "star4": 6,
+        "star5": 52,
+        "total": 63
+    },
+    "girl.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "git-cola.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "git-gui.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gitg.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 3,
+        "total": 8
+    },
+    "gitkraken.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "gksu.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "glabels-3.0.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "glade.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "gnome-abrt.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "gnome-calculator.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 2,
+        "star4": 2,
+        "star5": 1,
+        "total": 6
+    },
+    "gnome-chess.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 2,
+        "star3": 2,
+        "star4": 1,
+        "star5": 5,
+        "total": 13
+    },
+    "gnome-commander.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 7
+    },
+    "gnome-control-center.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 3,
+        "star3": 1,
+        "star4": 1,
+        "star5": 8,
+        "total": 17
+    },
+    "gnome-do.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "gnome-gmail.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "gnome-mahjongg.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 6
+    },
+    "gnome-mines.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 5,
+        "total": 9
+    },
+    "gnome-music.desktop": {
+        "star0": 0,
+        "star1": 11,
+        "star2": 6,
+        "star3": 5,
+        "star4": 11,
+        "star5": 14,
+        "total": 47
+    },
+    "gnome-nettool.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 2,
+        "total": 4
+    },
+    "gnome-ring.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "gnome-subtitles.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "gnome-sudoku.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "gnome-system-log.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 6
+    },
+    "gnome-system-monitor-kde.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gnome-system-monitor.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 5
+    },
+    "gnome-tetravex.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gnome-tweak-tool.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 2,
+        "star4": 4,
+        "star5": 76,
+        "total": 83
+    },
+    "gnote.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 4
+    },
+    "gnucash.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 8,
+        "total": 11
+    },
+    "gnumeric.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "godot.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "goldendict.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "google-chrome.desktop": {
+        "star0": 0,
+        "star1": 5,
+        "star2": 6,
+        "star3": 1,
+        "star4": 6,
+        "star5": 44,
+        "total": 62
+    },
+    "gparted.desktop": {
+        "star0": 0,
+        "star1": 19,
+        "star2": 5,
+        "star3": 6,
+        "star4": 4,
+        "star5": 35,
+        "total": 69
+    },
+    "gpick.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 6
+    },
+    "gpk-update-viewer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gramps.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "grsync.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 1,
+        "total": 3
+    },
+    "grub-customizer.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "gscan2pdf.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gtg.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 4,
+        "star4": 1,
+        "star5": 3,
+        "total": 9
+    },
+    "gthumb.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 11,
+        "total": 12
+    },
+    "guake.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "gucharmap.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 3,
+        "total": 5
+    },
+    "gvim.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 6,
+        "total": 7
+    },
+    "gweled.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "hamster-time-tracker.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "hedgewars.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 6,
+        "total": 7
+    },
+    "heimdall.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "hexchat.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 8,
+        "total": 10
+    },
+    "homebank.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 3,
+        "star5": 4,
+        "total": 8
+    },
+    "iagno.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "icecat.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 8,
+        "total": 11
+    },
+    "iceweasel.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "idjc.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "imagewriter.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "inkscape.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 1,
+        "star4": 6,
+        "star5": 45,
+        "total": 54
+    },
+    "insync-helper.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "io.github.GnomeMpv.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 6,
+        "total": 7
+    },
+    "io.github.Pithos.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "iridium-browser.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "jd-gui.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "jetbrains-idea.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 8,
+        "total": 8
+    },
+    "jetbrains-phpstorm.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 8,
+        "total": 8
+    },
+    "jetbrains-pycharm-ce.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 3,
+        "total": 5
+    },
+    "jetbrains-pycharm.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "jetbrains-studio.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "jetbrains-webstorm.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "julia.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "k3b.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 6,
+        "total": 8
+    },
+    "kali-fern-wifi-cracker.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 4
+    },
+    "kali-msfconsole.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "keepass.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 7,
+        "total": 12
+    },
+    "keepassx.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "keepassx2.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 6,
+        "total": 6
+    },
+    "keepassxc.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 4
+    },
+    "kicad.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "kid3-qt.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "klavaro.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 4
+    },
+    "kmymoney.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "kodi.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 0,
+        "star4": 2,
+        "star5": 5,
+        "total": 10
+    },
+    "krita.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "labyrinth.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "lash-panel.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "lazarus.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "leafpad.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "libreoffice-base.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "libreoffice-calc.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 6,
+        "total": 7
+    },
+    "libreoffice-draw.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "libreoffice-impress.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 7
+    },
+    "libreoffice-startcenter.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 2,
+        "star4": 1,
+        "star5": 3,
+        "total": 8
+    },
+    "libreoffice-writer.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 4,
+        "star4": 2,
+        "star5": 24,
+        "total": 34
+    },
+    "lifeograph.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "liferea.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 4,
+        "total": 6
+    },
+    "lightsoff.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "lightworks.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 5
+    },
+    "lincity-ng.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 5
+    },
+    "liveusb-creator.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 5,
+        "total": 11
+    },
+    "lollypop.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 10,
+        "total": 13
+    },
+    "lshw-gtk.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "lshw.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "lyx.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "mailnag-config.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "manaplus.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "mcomix.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 1,
+        "total": 4
+    },
+    "mediawriter.desktop": {
+        "star0": 0,
+        "star1": 15,
+        "star2": 2,
+        "star3": 0,
+        "star4": 2,
+        "star5": 26,
+        "total": 45
+    },
+    "megaglest.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "meld.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 9,
+        "total": 11
+    },
+    "miam-player.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "midori.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "minecraft.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "minergate.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 5
+    },
+    "minetest.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 7,
+        "total": 10
+    },
+    "minitube.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 7
+    },
+    "mixxx.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "monodevelop.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 6,
+        "total": 8
+    },
+    "mozilla-thunderbird.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 4,
+        "star5": 23,
+        "total": 29
+    },
+    "mpv.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 11,
+        "total": 12
+    },
+    "mrrescue.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "mscore.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "mupen64plus-qt.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "musique.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 6,
+        "total": 10
+    },
+    "mypaint.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 1,
+        "star4": 3,
+        "star5": 11,
+        "total": 17
+    },
+    "mysql-workbench.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 2,
+        "total": 5
+    },
+    "nemo.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "net.sourceforge.mars-game.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "netbeans-8.2.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 6
+    },
+    "netease-cloud-music.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 2,
+        "star4": 1,
+        "star5": 10,
+        "total": 15
+    },
+    "nethack.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "neverball.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 6,
+        "total": 8
+    },
+    "neverputt.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "nextcloud.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 6,
+        "total": 6
+    },
+    "nicotine.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "nomacs.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "nvidia-settings.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 3
+    },
+    "nylas.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "obs.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "office-runner.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 4
+    },
+    "okular.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "openarena.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 9,
+        "total": 12
+    },
+    "openmw.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "openshot-qt.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "openshot.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 4
+    },
+    "openttd.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 5
+    },
+    "opera.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 4,
+        "star5": 18,
+        "total": 24
+    },
+    "org.baedert.corebird.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 7,
+        "star5": 15,
+        "total": 23
+    },
+    "org.folkswithhats.fedy.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 4,
+        "total": 7
+    },
+    "org.gnome.Books.desktop": {
+        "star0": 0,
+        "star1": 10,
+        "star2": 5,
+        "star3": 2,
+        "star4": 1,
+        "star5": 1,
+        "total": 19
+    },
+    "org.gnome.Boxes.desktop": {
+        "star0": 0,
+        "star1": 9,
+        "star2": 4,
+        "star3": 8,
+        "star4": 8,
+        "star5": 13,
+        "total": 42
+    },
+    "org.gnome.Builder.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 1,
+        "star3": 8,
+        "star4": 16,
+        "star5": 21,
+        "total": 50
+    },
+    "org.gnome.Calendar.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 4,
+        "star4": 13,
+        "star5": 5,
+        "total": 25
+    },
+    "org.gnome.Cheese.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 5,
+        "total": 11
+    },
+    "org.gnome.Contacts.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 4
+    },
+    "org.gnome.Dictionary.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 2,
+        "star4": 4,
+        "star5": 0,
+        "total": 7
+    },
+    "org.gnome.DiskUtility.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 14,
+        "total": 20
+    },
+    "org.gnome.Documents.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 3,
+        "star3": 3,
+        "star4": 0,
+        "star5": 1,
+        "total": 7
+    },
+    "org.gnome.Eolie.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 1,
+        "total": 3
+    },
+    "org.gnome.Epiphany.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 10,
+        "star5": 5,
+        "total": 16
+    },
+    "org.gnome.FeedReader.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "org.gnome.FileRoller.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 2,
+        "star3": 2,
+        "star4": 2,
+        "star5": 7,
+        "total": 14
+    },
+    "org.gnome.Games.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 2,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 7
+    },
+    "org.gnome.Logs.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "org.gnome.Lollypop.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 24,
+        "total": 27
+    },
+    "org.gnome.Maps.desktop": {
+        "star0": 0,
+        "star1": 8,
+        "star2": 4,
+        "star3": 6,
+        "star4": 13,
+        "star5": 17,
+        "total": 48
+    },
+    "org.gnome.MultiWriter.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 11,
+        "total": 18
+    },
+    "org.gnome.Music.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "org.gnome.Nautilus.desktop": {
+        "star0": 0,
+        "star1": 7,
+        "star2": 5,
+        "star3": 4,
+        "star4": 14,
+        "star5": 31,
+        "total": 61
+    },
+    "org.gnome.Nibbles.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "org.gnome.PackageUpdater.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "org.gnome.Packages.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 3,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 4
+    },
+    "org.gnome.Photos.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 4,
+        "star3": 7,
+        "star4": 3,
+        "star5": 4,
+        "total": 20
+    },
+    "org.gnome.Polari.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 3,
+        "star3": 3,
+        "star4": 8,
+        "star5": 9,
+        "total": 24
+    },
+    "org.gnome.Pomodoro.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 17,
+        "total": 19
+    },
+    "org.gnome.Recipes.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "org.gnome.Screenshot.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 2,
+        "star4": 1,
+        "star5": 4,
+        "total": 9
+    },
+    "org.gnome.Software.desktop": {
+        "star0": 0,
+        "star1": 7,
+        "star2": 2,
+        "star3": 14,
+        "star4": 7,
+        "star5": 6,
+        "total": 36
+    },
+    "org.gnome.SoundRecorder.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 5
+    },
+    "org.gnome.Terminal.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 2,
+        "star3": 7,
+        "star4": 13,
+        "star5": 29,
+        "total": 57
+    },
+    "org.gnome.Todo.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 9,
+        "total": 13
+    },
+    "org.gnome.Totem.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 3,
+        "star3": 7,
+        "star4": 4,
+        "star5": 8,
+        "total": 28
+    },
+    "org.gnome.Weather.Application.desktop": {
+        "star0": 0,
+        "star1": 13,
+        "star2": 8,
+        "star3": 12,
+        "star4": 9,
+        "star5": 5,
+        "total": 47
+    },
+    "org.gnome.baobab.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 7,
+        "total": 7
+    },
+    "org.gnome.bijiben.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 4,
+        "star3": 2,
+        "star4": 2,
+        "star5": 3,
+        "total": 14
+    },
+    "org.gnome.clocks.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 1,
+        "star4": 6,
+        "star5": 6,
+        "total": 15
+    },
+    "org.gnome.font-viewer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "org.gnome.gedit.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 25,
+        "total": 31
+    },
+    "org.gnome.gnome-2048.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 6,
+        "total": 7
+    },
+    "org.gnome.latexila.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "org.kde.akregator.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "org.kde.ark.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 6
+    },
+    "org.kde.digikam.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "org.kde.discover.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 5
+    },
+    "org.kde.dolphin.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 7,
+        "total": 8
+    },
+    "org.kde.dragonplayer.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 3,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 8
+    },
+    "org.kde.gwenview.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "org.kde.kaffeine.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "org.kde.kate.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 8,
+        "total": 9
+    },
+    "org.kde.kdeconnect.kcm.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 4
+    },
+    "org.kde.kdeconnect.nonplasma.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "org.kde.kdenlive.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 6,
+        "total": 10
+    },
+    "org.kde.kdevelop.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "org.kde.kgpg.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "org.kde.khangman.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "org.kde.konversation.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "org.kde.krita.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 2,
+        "star5": 10,
+        "total": 13
+    },
+    "org.kde.krusader.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "org.kde.ktorrent.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "org.kde.kturtle.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "org.kde.okular.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 4,
+        "total": 5
+    },
+    "org.mageia.dnfdragora.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 1,
+        "star5": 1,
+        "total": 4
+    },
+    "otter-browser.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "owncloud.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 6,
+        "total": 9
+    },
+    "pac.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "parole.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 6
+    },
+    "pavucontrol.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "pcsxr.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 2,
+        "total": 5
+    },
+    "pdfmod.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 3,
+        "star3": 0,
+        "star4": 7,
+        "star5": 9,
+        "total": 20
+    },
+    "pdfshuffler.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 6
+    },
+    "pgadmin3.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 1,
+        "total": 5
+    },
+    "phatch.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 3
+    },
+    "pidgin.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 5,
+        "star5": 6,
+        "total": 11
+    },
+    "pinball.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "pinta.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 6
+    },
+    "pitivi.desktop": {
+        "star0": 0,
+        "star1": 31,
+        "star2": 10,
+        "star3": 7,
+        "star4": 8,
+        "star5": 11,
+        "total": 67
+    },
+    "pluma.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "poedit.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "puddletag.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "putty.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "qBittorrent.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 26,
+        "total": 31
+    },
+    "qelectrotech.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "qmmp.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "qtcreator.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 6,
+        "total": 7
+    },
+    "qtpass.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 3
+    },
+    "quadrapassel.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 2,
+        "total": 6
+    },
+    "quiterss.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "quodlibet.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 7,
+        "total": 7
+    },
+    "qupzilla.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 1,
+        "star3": 0,
+        "star4": 2,
+        "star5": 7,
+        "total": 13
+    },
+    "qutebrowser.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "ramme.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "rapid-photo-downloader.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "rawtherapee.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 2,
+        "total": 4
+    },
+    "redeclipse.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "rednotebook.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "redshift-gtk.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 3,
+        "star3": 3,
+        "star4": 7,
+        "star5": 15,
+        "total": 29
+    },
+    "remmina.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 2,
+        "star5": 17,
+        "total": 20
+    },
+    "remote-viewer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 0,
+        "total": 2
+    },
+    "rhythmbox.desktop": {
+        "star0": 0,
+        "star1": 7,
+        "star2": 3,
+        "star3": 5,
+        "star4": 10,
+        "star5": 12,
+        "total": 37
+    },
+    "rstudio.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 4,
+        "total": 7
+    },
+    "sasgui.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "scilab.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 2,
+        "star4": 0,
+        "star5": 0,
+        "total": 5
+    },
+    "scratch.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "scribus.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 3,
+        "star3": 0,
+        "star4": 3,
+        "star5": 6,
+        "total": 12
+    },
+    "scummvm.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "seahorse.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 1,
+        "star3": 3,
+        "star4": 1,
+        "star5": 0,
+        "total": 9
+    },
+    "setroubleshoot.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 3
+    },
+    "shotwell.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 3,
+        "star4": 0,
+        "star5": 0,
+        "total": 3
+    },
+    "shutter.desktop": {
+        "star0": 0,
+        "star1": 13,
+        "star2": 10,
+        "star3": 6,
+        "star4": 4,
+        "star5": 16,
+        "total": 49
+    },
+    "sigil.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "simple-scan.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 2,
+        "star3": 0,
+        "star4": 3,
+        "star5": 46,
+        "total": 51
+    },
+    "simplescreenrecorder.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 7
+    },
+    "siril.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "skype.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 2,
+        "star3": 0,
+        "star4": 3,
+        "star5": 2,
+        "total": 10
+    },
+    "skypeforlinux.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 6,
+        "star3": 7,
+        "star4": 4,
+        "star5": 6,
+        "total": 29
+    },
+    "slack.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 4,
+        "total": 6
+    },
+    "smb4k.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 7
+    },
+    "smplayer.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 7,
+        "total": 9
+    },
+    "smuxi-frontend-gnome.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "snappy.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "software-properties-gnome.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "sol.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 6
+    },
+    "sound-juicer.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 6
+    },
+    "soundconverter.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 5,
+        "total": 6
+    },
+    "spotify.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 3,
+        "star4": 7,
+        "star5": 14,
+        "total": 25
+    },
+    "sqlitebrowser.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 4,
+        "total": 5
+    },
+    "steam.desktop": {
+        "star0": 0,
+        "star1": 9,
+        "star2": 2,
+        "star3": 4,
+        "star4": 5,
+        "star5": 19,
+        "total": 39
+    },
+    "stellarium.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 3,
+        "star5": 21,
+        "total": 25
+    },
+    "sublime_text.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 7,
+        "total": 7
+    },
+    "supertux2.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 8,
+        "total": 11
+    },
+    "supertuxkart.desktop": {
+        "star0": 0,
+        "star1": 6,
+        "star2": 0,
+        "star3": 1,
+        "star4": 3,
+        "star5": 23,
+        "total": 33
+    },
+    "sweethome3d.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "swell-foop.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 2,
+        "star4": 1,
+        "star5": 0,
+        "total": 4
+    },
+    "synaptic.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 4
+    },
+    "synergy.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "tagainijisho.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "teamwire.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "teeworlds.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 5,
+        "total": 5
+    },
+    "telegram-desktop.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 5,
+        "total": 8
+    },
+    "telegramdesktop.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 2,
+        "star4": 0,
+        "star5": 23,
+        "total": 26
+    },
+    "terminator.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 1,
+        "star3": 1,
+        "star4": 2,
+        "star5": 9,
+        "total": 15
+    },
+    "texmaker.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "texstudio.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 8,
+        "total": 11
+    },
+    "thunderbird.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 5,
+        "total": 7
+    },
+    "tilda.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "tixati.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "tomboy.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "torbrowser.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 2,
+        "star3": 0,
+        "star4": 3,
+        "star5": 10,
+        "total": 17
+    },
+    "tracker-needle.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
+    "transmageddon.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 3,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 5
+    },
+    "transmission-gtk.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 3,
+        "star4": 10,
+        "star5": 67,
+        "total": 80
+    },
+    "tremulous.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "tuxguitar.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "uget-gtk.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 4
+    },
+    "urbanterror.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 6
+    },
+    "valyriatear.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "veracrypt.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 3,
+        "total": 3
+    },
+    "viber.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 3
+    },
+    "viewnior.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "vinagre.desktop": {
+        "star0": 0,
+        "star1": 12,
+        "star2": 7,
+        "star3": 4,
+        "star4": 2,
+        "star5": 7,
+        "total": 32
+    },
+    "virt-manager.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 3,
+        "star5": 10,
+        "total": 15
+    },
+    "virtualbox.desktop": {
+        "star0": 0,
+        "star1": 5,
+        "star2": 0,
+        "star3": 0,
+        "star4": 10,
+        "star5": 11,
+        "total": 26
+    },
+    "visual-studio-code.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "vivaldi-stable.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 1,
+        "star4": 3,
+        "star5": 11,
+        "total": 16
+    },
+    "vk.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
+    "vlc.desktop": {
+        "star0": 0,
+        "star1": 15,
+        "star2": 3,
+        "star3": 5,
+        "star4": 8,
+        "star5": 47,
+        "total": 78
+    },
+    "vmware-player.desktop": {
+        "star0": 0,
+        "star1": 8,
+        "star2": 1,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 12
+    },
+    "vmware-workstation.desktop": {
+        "star0": 0,
+        "star1": 10,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 4,
+        "total": 14
+    },
+    "wammu.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "warzone2100.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "wesnoth-1.12.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "wesnoth.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 17,
+        "total": 17
+    },
+    "wireshark-gtk.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "wireshark.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 8,
+        "total": 11
+    },
+    "workrave.desktop": {
+        "star0": 0,
+        "star1": 3,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 5
+    },
+    "wps-office-et.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 7,
+        "total": 9
+    },
+    "wps-office-wpp.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 2,
+        "total": 4
+    },
+    "wps-office-wps.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 2,
+        "star5": 3,
+        "total": 5
+    },
+    "www.octave.org-octave.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 0,
+        "star5": 3,
+        "total": 4
+    },
+    "xchat.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 3
+    },
+    "xdman.desktop": {
+        "star0": 0,
+        "star1": 4,
+        "star2": 3,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 7
+    },
+    "xfce4-notes.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
+    "xonotic.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 2,
+        "star4": 3,
+        "star5": 22,
+        "total": 29
+    },
+    "yandex-browser-beta.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 3,
+        "total": 4
+    },
+    "yarock.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 3
+    },
+    "yelp.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
+    "yumex-dnf.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 1,
+        "star4": 5,
+        "star5": 9,
+        "total": 16
+    },
+    "zeal.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 0,
+        "total": 2
+    },
+    "zim.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 7,
+        "total": 7
+    }
+}

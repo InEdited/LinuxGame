@@ -1,0 +1,19 @@
+Welcome to the second level of this Game
+Congrats you did it 
+
+To pass to the next level you need to figure out both the username and the password.
+
+--------------------
+The password is the md5 checksum of a certain string , you don't need to know what that is you just need to know how to get it.
+
+Hint : use:
+	    md5sum filename
+
+-----------------
+
+Now to get the password you need to get the md5 checksum of this file 
+(i.e. use md5sum and this text file the parameter)
+
+The username is the name of this file(without .txt) and the password is the md5 checksum of this file.
+
+Goodluck warrior :D
