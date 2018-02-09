@@ -25,5 +25,5 @@ $ sudo /etc/init.d/ssh restart
 >If you want to change the contents of the file leading to the third level you have to change the password of the third level 
 >Because the md5sum of the .txt will change
 
-
+* The player is provided with the first username and password
 
