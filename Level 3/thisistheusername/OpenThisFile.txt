@@ -1,0 +1,21 @@
+
+I see you have made it to the third level , Congrats warrior.
+
+It's time to kick it up a notch, this level will be harder a bit.
+=============================================================================
+The userame for the next level is just straight forward given to you.
+
+->Username : nmapisuseful
+
+==============================================================================
+
+The password for the next level is the ports open on the host machine in ascending order.
+
+-> For example if the ports open are : 23 , 55 , 80 ,944, 599 
+-> The password will be 235580599944
+==============================================================================
+
+To check for the open ports you are gonna need to use a tool called nmap and check the list of open ports on the local host.
+
+You will not be provided with any further hints to use nmap you have to figure out your way through.
+
