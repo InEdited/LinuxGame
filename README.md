@@ -3,7 +3,8 @@ A small Linux SSH based game for OSC's Salakhana event
 
 ##Setting Up the game 
 
-~Preferabely use root to set up everything first~
+*Preferabely use root to set up everything first*
+
 * First install openssh server and client(use yum for Fedora family)
 ```
 $ sudo apt-get install openssh-server openssh-client
