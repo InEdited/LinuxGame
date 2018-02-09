@@ -1,7 +1,7 @@
 # LinuxGame
 A small Linux SSH based game for OSC's Salakhana event
 
-##Setting Up the game 
+## Setting Up the game 
 
 *Preferabely use root to set up everything first*
 
