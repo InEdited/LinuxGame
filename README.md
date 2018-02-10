@@ -14,6 +14,11 @@ $ sudo apt-get install openssh-server openssh-client
 ```
 $ sudo /etc/init.d/ssh restart
 ```
+* Install nmap for level 4 
+```
+$ sudo apt-get install nmap
+```
+
 * To run the game on your system you need to create the following users and add the levels in the repositories to their home folders respectively (will be updated)
 
 | Level | Username | Password | 
